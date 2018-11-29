@@ -1,6 +1,12 @@
 # ad-project
 
-> A Vue.js project
+> работает на Vue.js + vuetify + firabase
+> в файле Packege.json  модно увидеть все подключения
+> для корректной работы должен быть глобально установлен sli-3 ( $ npm install @vue/cli -g )
+> node-v9.7.1-x64 
+> vuex
+> после открытия в Webstorm  наберите в консоли npm i
+
 
 ## Build Setup
 
